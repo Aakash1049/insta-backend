@@ -7,5 +7,23 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.8.0",
     "nodemon": "^2.0.20"
-  }
+  },
+  "name": "insta_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aakash1049/insta-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aakash1049/insta-backend/issues"
+  },
+  "homepage": "https://github.com/Aakash1049/insta-backend#readme",
+  "description": ""
 }
